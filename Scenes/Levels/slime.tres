@@ -1,0 +1,13 @@
+[gd_resource type="Resource" script_class="movement_values" load_steps=2 format=3 uid="uid://dedbd4ohgfquy"]
+
+[ext_resource type="Script" path="res://test_resource.gd" id="1_2n240"]
+
+[resource]
+script = ExtResource("1_2n240")
+speed = 100
+jump_speed = 225
+max_jumps = 1
+dub_jump_speed = 180
+_gravity = 600
+friction = 0.1
+acceleration = 0.25
